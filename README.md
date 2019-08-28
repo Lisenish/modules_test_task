@@ -17,5 +17,6 @@ If I had more time I would do better:
 * Implement error handling
 * Move buttons to reusable components
 * Add some CSS preprocessor (LESS?)
+* Add svgr webpack loader from pertty svg components instead of hardcoded inline
 * Write unit-tests
 * Pay more attention to responsivness (did only basic version)
