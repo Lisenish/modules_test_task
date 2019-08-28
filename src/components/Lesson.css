@@ -1,0 +1,23 @@
+.Lesson {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 25px 0 55px;
+    height: 67px;
+    border: 2px solid #E5E5E5;
+    border-top: 0;
+}
+
+.Lesson__icon {
+    margin-right: 15px;
+}
+
+.Lesson__title {
+    flex-grow: 1;
+    font-size: 13px;
+}
+
+.Lesson__link {
+    text-decoration: none;
+}

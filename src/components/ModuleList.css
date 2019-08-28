@@ -1,0 +1,16 @@
+.ModuleList {
+    width: 100%;
+}
+
+.ModuleList__header {
+    display: block;
+    margin-bottom: 37px;
+}
+
+.ModuleList__module + .ModuleList__module {
+    margin-top: 45px;
+}
+
+.Module__button-icon {
+    vertical-align: middle;
+}
