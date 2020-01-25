@@ -1,4 +1,4 @@
-## How to run app
+## How to run an app
 
 Run `npm start` in terminal
 
@@ -13,9 +13,9 @@ If I had more time I would do better:
 
 * DnD of Modules and Lessons across Modules
     - I didn't work with react-beautiful-dnd before but I'm sure with little more time i could implement it 
-* Separate API DTOs from Application data model and probably user normalzr to normalizr API response  (or discuss handler response with our BE)
+* Separate API DTOs from Application data model and probably user normalzr to normalize API response  (or discuss handler response with our BE)
 * Implement error handling
 * Move buttons to reusable components
 * Add some CSS preprocessor (LESS?)
 * Write unit-tests
-* Pay more attention to responsivness (did only basic version)
+* Pay more attention to responsiveness (did only basic version)

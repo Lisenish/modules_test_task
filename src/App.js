@@ -3,7 +3,6 @@ import './App.css';
 import ReloadButton from './components/ReloadButton';
 import ModuleListContainer from './containers/ModuleListContainer';
 
-
 function App() {
   return (
     <div className="App">
